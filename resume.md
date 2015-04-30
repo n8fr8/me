@@ -1,14 +1,17 @@
 # Nathan Freitas
-### nathan@freitas.net - +1.718.569.7272
-### http://nathan.freitas.net - @n8fr8 - pgp:0x69B37AA9
+*nathan@freitas.net - +1.718.569.7272 - http://nathan.freitas.net - @n8fr8 - pgp:0x69B37AA9*
 
 I have worked for fifteen years in the field of mobile communications and security software and systems, with a deep set of experience organizations, applications and platforms. In 1999, I founded ThinAirApps, a mobile enterprise software startup that developed a pioneering secure mobile email and business application platform. We were acquired by Palm, inc in 2001, where I led the mobile Java initiative in partnership with IBM, Sun and others. After a few years there, I left to apply my technical and security skills to humanitarian, human rights and civic applications, by working with human rights organizations and government initiatives, and teaching graduate students at New York University how to do the same. Since 2009, I have led the Guardian Project, an award-winning, open-source, mobile security effort with millions users worldwide, thanks to grant funding from Google, the Knight Foundation, the MacArthur Foundation, HIVOS and Eric and Wendy Schmidt. I am also currently a Fellow, at the Berkman Center for Internet & Society, at Harvard University.
+
+---
 
 ## ACADEMIA
 * Fellow, Berkman Center for Internet & Society, Harvard Law School - 2014 - Ongoing
 * Adjunct Professor, NYU Interactive Telecommunications Program, Fall 2009 - Fall 2011: Graduate course “Social Activism through Mobile Technology”, a hands-on workshop leading the students through real world case studies and development with partners
 * University of California, Santa Barbara, College of Creative Studies, Bachelor of Arts.
 High Honors, 1992 - 1996: Music Composition, Software Digital Synthesis and Signal Processing
+
+---
 
 ## INDUSTRY
 * Founder, Development Lead, The Guardian Project - May 2010 - Ongoing
@@ -25,6 +28,8 @@ ThinAirApps (TAA) was a venture-funded startup, based on technology assets I dev
 * Researcher & Developer, Alexandria Digital Library Project, Dept of Computer Science / DARPA / NSF, UC SANTA BARBARA — 1996-1998
 Led client development for early XML-based web services geospatial digital library repository. Five year project funded by DARPA, NSF, NASA. 
 
+---
+
 ## RECOGNITION AND AWARDS
 * 2014 Eric & Wendy Schmidt: “New Age Digital” grant: The New Digital Age Grants were established to highlight organizations that use technology to counter the global challenges Schmidt and Google Ideas Director Jared Cohen write about in their book THE NEW DIGITAL AGE, including government-sponsored censorship, disaster relief and crime fighting. https://guardianproject.info/2014/03/10/eric-schmidt-awards-guardian-project-a-new-digital-age-grant/
 * 2012 Pizzigati Prize: The Antonio Pizzigati Prize for Software in the Public Interest annually awards a cash grant to one individual who has created or led an effort to create an open source software product of significant value to the nonprofit sector and movements for social change.
@@ -32,6 +37,8 @@ Led client development for early XML-based web services geospatial digital libra
 * Harvard Business School Business Plan Contest 2006 - 2nd Prize Winner - Team: Jonathan Oakes (HBS), Nathan Freitas:  Open Network Television, LLC (ONTV) was founded in 2005 to reinvent the way ideas and inspirations are shared, experienced and commercialized in a digital world.
 * PATENT (WO/2002/067114) METHOD AND APPARATUS FOR THE CREATION OF MOBILE SOFTWARE APPLICATIONS: The present inventio- +1.718.569.7272 -n provides a method and apparatus for the creation of software applications that enable the interaction between a mobile business user with a wireless device or handset to interact with functions and information stored in a remote networked server. http://www.wipo.int/pctdb/en/wo.jsp?wo=2002067114   (WO/2001/052016) 
 * PATENT SOFTWARE ARCHITECTURE FOR WIRELESS DATA AND METHOD OF OPERATION THEREOF: A software architecture, data model, and access protocol to facilitate real time, session-based access to server-based (30) data from low bandwidth wireless computing devices (20, 22 and 24). http://www.wipo.int/pctdb/en/wo.jsp?IA=WO2001052016
+
+---
 
 ## PUBLIC TALKS, PANELS AND CONFERENCES
 * “The Great Firewall Inverts” Harvard Berkman Center for Internet & Society, January 2015
@@ -53,6 +60,8 @@ Led client development for early XML-based web services geospatial digital libra
 * "Advanced Visualization Services: Collaborative Environments." (Software Application/Paper. With Robert Nideffer). Digital Library Initiative: All Projects Meeting. University of California, Berkeley. Berkeley, California. January 5-6, 1998.
 * "Research Across Disciplines Testbed Projects." (With Victoria Vesna and Robert Nideffer). Visual Research Lab. University of California, San Diego. San Diego, California. November 24, 1997.
 * "The Alexandria Digital Library." (Software Application. With Robert Nideffer). Java Tools for Science Analysis and Visualization. Jet Propulsion Laboratory. Pasadena, California. November 19, 1997.
+
+---
 
 ## PUBLICATIONS AND EXHIBITIONS
 * Harvard Berkman Center - 2014 Internet Monitor Report “Reflections on the Digital World”
